@@ -10,28 +10,26 @@ I enjoy building modern, scalable, and user-friendly web applications with a foc
 
 ---
 
-## 🚀 Skills
+🚀 Skills
 - HTML5, CSS3, JavaScript (ES6+)
+- TypeScript
 - React.js
-- TypeScript (if used)
+- Flutter (Mobile Development)
 - Tailwind CSS, Bootstrap
+- Responsive Web & Mobile Design
+- REST APIs Integration
+- State Management (Redux / Provider / as applicable)
 - Git & GitHub
-- Responsive Web Design
 - UI/UX Design Principles
-- REST APIs (basic integration)
+- Cross-platform App Development
 
 ---
 
 ## 📂 Projects
 
 ### 🧠 Teamify – Smart Task Management Platform
-A smart AI-powered platform designed to help users organize tasks and find or manage teams efficiently.  
-The system includes intelligent features that enhance productivity and improve collaboration between users.
-
-- AI-assisted features for task organization and suggestions  
-- Team discovery and collaboration tools  
-- Modern and responsive UI  
-- Built with a focus on scalability and user experience  
+ is an AI-powered task management and collaboration platform that helps users organize tasks,
+ manage projects, and discover teams efficiently through smart recommendations and a modern UI.
 
 ---
 
@@ -51,9 +49,9 @@ This repository contains my latest CV in PDF format.
 ---
 
 ## 📫 Contact Me
-- LinkedIn: (ضع رابطك هنا)
-- GitHub: (ضع رابطك هنا)
-- Email: (اختياري)
+- LinkedIn: (https://www.linkedin.com/in/abdelrahman-ahmed-045741262/)
+- GitHub: (https://github.com/AbdelrahmanDaify/)
+- Email: (abdudifiy11@gmail.com)
 
 ---
 
